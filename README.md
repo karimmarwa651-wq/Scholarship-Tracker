@@ -13,7 +13,7 @@ A Java console application that helps students apply for scholarships, track the
 
 ## 🎥 Demo Video
 
-**Drive Link:** 
+**Drive Link: https://drive.google.com/drive/folders/1MRNV2BacgJ04HwKkNIkebL9E6cn6GAuK?usp=sharing** 
 ---
 
 ## 📌 GitHub Repository
