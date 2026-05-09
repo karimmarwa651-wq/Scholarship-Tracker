@@ -18,7 +18,7 @@ A Java console application that helps students apply for scholarships, track the
 
 ## 📌 GitHub Repository
 
-**GitHub URL:** 
+**GitHub URL: https://github.com/karimmarwa651-wq/Scholarship-Tracker** 
 
 ---
 
